@@ -166,7 +166,7 @@ Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) -
 - Download dependencies by running npm install
 - Start up the app using npm start
 
-- The app must have the following functionalities
+- The app has the following functionalities
 
 1. Initially, the app is in light theme
 
